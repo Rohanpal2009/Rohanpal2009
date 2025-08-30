@@ -8,7 +8,6 @@ I’m  Rohan a beginner programmer passionate about learning and building cool p
 - 🤝 I’m looking to collaborate on simple Python projects and learning challenges    
 - 📚 Always curious to learn new things in tech
 
-- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JyyyD3Ky5R) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohan_pal_._)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@rohanpal404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanpalporto@gmail.com) 
 
