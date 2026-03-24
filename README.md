@@ -5,7 +5,7 @@ passionate about building real products that solve real problems.
 
 # 🚀 About Me
 
-- 🇵🇹 Based in Braga, Portugal
+- 🇵🇹 Based in Porto, Portugal
 - 🐍 Learning Python and diving into web development
 - 💡 Currently building *FixFope* — an on-demand home services 
      platform launching in Porto
