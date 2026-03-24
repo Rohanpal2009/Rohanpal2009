@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I’m  Rohan a beginner programmer passionate about learning and building cool projects.  
-
 # Hi there 👋 I'm Rohan
 
 I'm a 16-year-old self-taught developer from Portugal, 
