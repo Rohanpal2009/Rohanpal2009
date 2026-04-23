@@ -7,8 +7,6 @@ passionate about building real products that solve real problems.
 
 - 🇵🇹 Based in Porto, Portugal
 - 🐍 Learning Python and diving into web development
-- 💡 Currently building *FixFope* — an on-demand home services 
-     platform launching in Porto
 - 🌐 I build full websites with HTML, CSS and JavaScript
 - 🤝 Always open to collaborate on real projects
 - 📈 Turning ideas into working products, one commit at a time
