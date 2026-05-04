@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Rohan
 
-I'm a 16-year-old self-taught developer from Portugal, 
+
+self-taught developer
 passionate about building real products that solve real problems.
 
 # 🚀 About Me
