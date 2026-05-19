@@ -3,14 +3,7 @@
 self-taught developer
 passionate about building real products that solve real problems.
 
-# 🚀 About Me
 
-
-- 🐍 Learning Python and diving into web development
-- 🌐 I build full websites with HTML, CSS and JavaScript
-- 🤝 Always open to collaborate on real projects
-- 📈 Turning ideas into working products, one commit at a time
-## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
