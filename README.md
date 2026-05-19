@@ -12,10 +12,7 @@ passionate about building real products that solve real problems.
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 🔥 Current Project
 
-## 📊 GitHub Stats
-<!-- keep your existing stats widgets here -->
 
 ## 🌐 Socials:
 ](mailto:rohanpalporto@gmail.com) 
